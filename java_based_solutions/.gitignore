@@ -1,5 +1,5 @@
 /.metadata/
-/.setting/
+/.settings/
 ### Maven ###
 target/
 pom.xml.tag
